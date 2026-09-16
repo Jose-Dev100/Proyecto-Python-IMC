@@ -24,3 +24,6 @@ print(f"Edad: {edad} años")
 print(f"Peso: {peso} kg")
 print(f"Estatura: {estatura} m")
 print(f"Tu IMC es: {imc:.2f}")
+
+input()
+#Solo es para que no cierre el programa de golpe
